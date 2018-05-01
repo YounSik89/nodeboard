@@ -1,5 +1,5 @@
 # Project : NodeBoard
-## Stack : NodeJs 10 &amp; MySQL &amp; NginX
+- Stack : NodeJs 10 &amp; MySQL &amp; NginX
 
 # Description
-## 1. Tutorial Board Test
+- 1. Tutorial Board Test
